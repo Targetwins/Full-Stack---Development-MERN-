@@ -21,13 +21,13 @@ The Basic Portfolio project is a simple yet effective way to showcase your skill
 
 ### Gallery Management System
 
-![Gallery Management System](link_to_image)
+![Gallery Management System](https://github.com/Targetwins/Full-Stack---Development-MERN-/blob/change/assets/phtography.png)
 
 The Gallery Management System project is designed for photographers, artists, or anyone who needs to organize and showcase their collection of images. It allows users to upload, categorize, and manage their photos effectively, with features such as tagging, search, and batch editing.
 
 ### Spotify Clone
 
-![Spotify Clone](link_to_image)
+![Spotify Clone](https://github.com/Targetwins/Full-Stack---Development-MERN-/blob/change/assets/Spotify.png)
 
 The Spotify Clone project replicates the core features of the popular music streaming service Spotify. Users can sign in, browse through a catalog of songs, create playlists, and listen to music seamlessly. It leverages technologies like React.js for the frontend and Node.js for the backend to provide a smooth and responsive user experience.
 
