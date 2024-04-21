@@ -9,7 +9,7 @@ The MERN course covers the following topics:
 - Building full-stack web applications using the MERN stack
 - Implementing CRUD (Create, Read, Update, Delete) operations
 - Authentication and authorization using JSON Web Tokens (JWT)
-- Deployment of MERN applications on platforms like Heroku
+
 
 ## Projects
 
